@@ -79,7 +79,7 @@ button{
   border-radius: 20px;
   margin: 0 auto; 
   gap: 20px;
-  margin-top: 50px;
+  margin-top: 190px;
   color: white;
   position: relative;
   overflow-y: auto;
@@ -279,7 +279,7 @@ transform: translateY(-4px);
 
 .chat-footer{
 position: absolute; 
-bottom: 105px; 
+bottom: 0; 
 width: 41%; 
 background-color: rgb(94, 93, 93); 
 padding: 15px 22px 20px; 
